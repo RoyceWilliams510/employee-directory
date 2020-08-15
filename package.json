@@ -10,7 +10,7 @@
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.3"
   },
-  "homepage": "https://roycewilliams510.github.io/employee-listing/",
+  "homepage": "https://roycewilliams510.github.io/employee-listings/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
